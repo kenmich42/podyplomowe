@@ -4,6 +4,8 @@ public class podyplomowe {
 
         System.out.println("Zaliczenie laboratorium Git 1 - Michał Kenar");
 
+        //Przykładowy komentarz - polecenie laboratorium Git 1
+
     }
 
 }
